@@ -1,0 +1,6 @@
+res://scenes/Main.tscn
+res://scenes/Squid.tscn
+res://materials/ground.material
+res://scripts/player.gd
+res://scripts/player_camera.gd
+res://materials/Body.material
